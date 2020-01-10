@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/KattaSarathTeja.robofriends/static/css/main.6c865a88.chunk.css",
+    "main.js": "/KattaSarathTeja.robofriends/static/js/main.a0c8b749.chunk.js",
+    "main.js.map": "/KattaSarathTeja.robofriends/static/js/main.a0c8b749.chunk.js.map",
+    "runtime-main.js": "/KattaSarathTeja.robofriends/static/js/runtime-main.9733212e.js",
+    "runtime-main.js.map": "/KattaSarathTeja.robofriends/static/js/runtime-main.9733212e.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/KattaSarathTeja.robofriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c13d78d9.chunk.js": "/KattaSarathTeja.robofriends/static/js/2.c13d78d9.chunk.js",
+    "static/js/2.c13d78d9.chunk.js.map": "/KattaSarathTeja.robofriends/static/js/2.c13d78d9.chunk.js.map",
+    "index.html": "/KattaSarathTeja.robofriends/index.html",
+    "precache-manifest.0128ebc2aebf213cc741f5fff0cdee3b.js": "/KattaSarathTeja.robofriends/precache-manifest.0128ebc2aebf213cc741f5fff0cdee3b.js",
+    "service-worker.js": "/KattaSarathTeja.robofriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/KattaSarathTeja.robofriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.6c865a88.chunk.css.map": "/KattaSarathTeja.robofriends/static/css/main.6c865a88.chunk.css.map",
+    "static/js/2.c13d78d9.chunk.js.LICENSE": "/KattaSarathTeja.robofriends/static/js/2.c13d78d9.chunk.js.LICENSE",
+    "static/media/App.css": "/KattaSarathTeja.robofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9733212e.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c13d78d9.chunk.js",
+    "static/css/main.6c865a88.chunk.css",
+    "static/js/main.a0c8b749.chunk.js"
+  ]
+}
